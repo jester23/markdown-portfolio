@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+Here's a link to this markdown exercise:
+
+[Github Markdown](https://jester23.github.io/markdown-portfolio/)
